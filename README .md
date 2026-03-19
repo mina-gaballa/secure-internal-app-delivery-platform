@@ -141,22 +141,33 @@ The following items were validated during implementation:
 ## Screenshots
 
 ### Azure Resources
-![Azure Arc Connected Cluster](screenshots/01-azure-arc-connected-cluster.jpg)
-![All Resources Overview 1](screenshots/02-all-resources-overview-page-1.jpg)
-![All Resources Overview 2](screenshots/03-all-resources-overview-page-2.jpg)
-![AKS Overview](screenshots/19-powershell-aks-cluster-overview.jpg)
-![AKS Node Pool Autoscaler](screenshots/20-powershell-aks-nodepool-autoscaler.jpg)
-![AKS Node Pool Nodes](screenshots/15-aks-node-pool-nodes.jpg)
-![ACR Overview](screenshots/16-acr-overview.jpg)
-![ACR Nginx Repository](screenshots/17-acr-nginx-repository.jpg)
-![Flux Extension Overview](screenshots/10-flux-extension-overview.jpg)
-![Azure Arc GitOps Overview](screenshots/11-azure-arc-gitops-overview.jpg)
-![GitOps Kustomizations](screenshots/12-gitops-kustomizations-overview.jpg)
-![GitOps Configuration Objects](screenshots/13-gitops-configuration-objects.jpg)
-![Managed Identity Role Assignment](screenshots/06-managed-identity-role-assignment.jpg)
-![Federated Credential Configuration](screenshots/07-federated-credential-configuration.jpg)
-![AKS Load Balancer Overview](screenshots/08-aks-load-balancer-overview.jpg)
-![Browser Test](screenshots/21-nginx-application-browser-test.jpg)
+![All Resources Overview 1](screenshots/all-resources-overview-page-1.JPG)
+![All Resources Overview 2](screenshots/all-resources-overview-page-2.JPG)
+
+### AKS
+![AKS Workloads Overview](screenshots/aks-workloads-overview.JPG)
+![AKS Node Pool Nodes](screenshots/aks-node-pool-nodes.JPG)
+![AKS Load Balancer Overview](screenshots/aks-load-balancer-overview.JPG)
+![AKS Load Balancer Backend Pools](screenshots/aks-load-balancer-backend-pools.JPG)
+![AKS Node Pool NSG Rules](screenshots/aks-nodepool-nsg-rules.JPG)
+![AKS System VMSS Instances](screenshots/aks-system-vmss-instances.JPG)
+
+### ACR
+![ACR Overview](screenshots/acr-overview.JPG)
+![ACR Nginx Repository](screenshots/acr-nginx-repository.JPG)
+
+### GitOps and Flux
+![Flux Extension Overview](screenshots/flux-extension-overview.JPG)
+![GitOps Overview](screenshots/gitops.JPG)
+![GitOps Kustomizations Overview](screenshots/gitops-kustomizations-overview.JPG)
+![GitOps Configuration Objects](screenshots/gitops-configuration-objects.JPG)
+
+### Identity and Secrets
+![Managed Identity Role Assignment](screenshots/managed-identity-role-assignment.JPG)
+![Federated Credential Configuration](screenshots/federated-credential-configuration.JPG)
+
+### Application Validation
+![Nginx Application Browser Test](screenshots/nginx-application-browser-test.JPG)
 
 ## Project Status
 
