@@ -42,7 +42,7 @@ This project addresses those challenges by implementing:
 
 ## Architecture Diagram
 
-![Architecture Diagram](diagrams/22-secure-internal-app-delivery-platform-architecture-diagram.png)
+![Architecture Diagram](diagrams/secure-internal-app-delivery-platform-architecture-diagram.png)
 
 ## Core Features
 
