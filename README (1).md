@@ -204,4 +204,4 @@ It delivers:
 
 ## Author
 
-**Mina Adel Zaki Gaballa**
+**Mina Gaballa**
